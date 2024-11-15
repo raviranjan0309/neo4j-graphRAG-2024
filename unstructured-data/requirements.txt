@@ -1,0 +1,9 @@
+pandas==2.1.4
+neo4j==5.26.0
+python-dotenv==1.0.0
+langchain==0.3.7
+langchain-community==0.3.7
+openai==1.54.4
+langchain-openai==0.2.8
+langchain-experimental==0.3.3
+pypdf==5.1.0
