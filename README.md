@@ -1,20 +1,18 @@
-# neo4j-graphRAG-2024
+# Neo4j and GraphRAG
 
-## Graph Data-Driven Recommendation Systems Empowered by Generative AI
+## Building the Backbone of Conversational AI
 
-### Open Data Science Conference,  August - 2024,  APAC
+### GraphDB Bangalore Meetup: 16th Nov, 2024
 
 **Presenters**
-- Ravi Ranjan [ LinkedIn : https://bit.ly/ravi-ranjan-03  Twitter : @raviranjan03  ]
+- Ravi Ranjan [ LinkedIn : https://bit.ly/ravi-ranjan-03 ]
 
 --- 
 
 ### Session Content
 
 1. Slides [ PDF : https://github.com/raviranjan0309/ODSC-APAC-2024/blob/main/ODSC%20-%202024.pdf ]
-2. Code [ https://github.com/raviranjan0309/ODSC-APAC-2024/tree/main/code ]
+2. PoC - Graph RAG on structured data [ [https://github.com/raviranjan0309/neo4j-graphRAG-2024/tree/main/structured-data] ]
+3. PoC - Graph RAG on unstructured data [ [https://github.com/raviranjan0309/neo4j-graphRAG-2024/tree/main/unstructured-data] ]
 
 --- 
-Credits :
-
-- Thank you Apurv for your contribution to the topic [https://www.linkedin.com/in/apurv-gude/]
